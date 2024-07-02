@@ -7,7 +7,7 @@ public class Tabuada {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Digite um número inteiro para ver a Tabuada: ");
+		System.out.print("Digite um número inteiro para ver a Tabuada: ");
 		int n = sc.nextInt();
 		
 		for (int i = 0; i < 11; i++) {
